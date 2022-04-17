@@ -1,5 +1,5 @@
 # TypeSearch
-- A very simple mod that allows you to seach @type in the pc so for example @fire would return all Pokemon that are fire type.
+- A very simple mod that allows you to search @type in the pc so for example @fire would return all Pokemon that are fire type.
 - Requires Pixelmon Reforged
 - Server side only!
 
