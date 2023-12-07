@@ -2,10 +2,12 @@
   "required": true,
   "minVersion": "0.8",
   "package": "kristi71111.typesearch.mixins",
-  "compatibilityLevel": "JAVA_8",
+  "compatibilityLevel": "JAVA_17",
   "refmap": "TypeSearch.refmap.json",
   "mixins": [
     "ServerQueryPCPacketMixin"
+  ],
+  "client": [
   ],
   "injectors": {
     "defaultRequire": 1
